@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaMaster(GADProject)", "PizzaMaster(GADProject).csproj", "{ACB77C9E-052D-4A6B-9FB6-D48EFBBBD705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB77C9E-052D-4A6B-9FB6-D48EFBBBD705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB77C9E-052D-4A6B-9FB6-D48EFBBBD705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB77C9E-052D-4A6B-9FB6-D48EFBBBD705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB77C9E-052D-4A6B-9FB6-D48EFBBBD705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B749C1F-836E-40D7-ADA5-90007F81D733}
+	EndGlobalSection
+EndGlobal
