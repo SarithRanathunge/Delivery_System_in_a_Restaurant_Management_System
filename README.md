@@ -1,6 +1,6 @@
 # Delivery system in a Restaurant Management System
 
-Build a system for resturant management System delivary part. In this part have QR code, Google map, bill generating and printing the bill.
+Build a system for restaurant management System delivery part. In this part have QR code, Google map, bill generating and printing the bill.
 
 ## Features ##
 
@@ -10,4 +10,4 @@ Build a system for resturant management System delivary part. In this part have 
 
 - By pressing the "Clear details" button, all the textboxes and combo boxes will be cleared. 
 
-- By pressing the "Print Bill" button, The bill that was made for the specefic customer's order will be generated and in the scenario of the delivery, this bill will be provided to the delivery driver to provide the bill to the customer.
+- By pressing the "Print Bill" button, The bill that was made for the specific customer's order will be generated and in the scenario of the delivery, this bill will be provided to the delivery driver to provide the bill to the customer.
