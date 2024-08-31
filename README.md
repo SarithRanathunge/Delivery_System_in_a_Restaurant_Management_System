@@ -1,4 +1,4 @@
-# Delivery system in a Restaurant Management System
+# Delivery System in a Restaurant Management System
 
 Build a system for restaurant management System delivery part. In this part have QR code, Google map, bill generating and printing the bill.
 
